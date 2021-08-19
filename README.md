@@ -1,0 +1,2 @@
+# CDJson
+CandidateDetailsJson
