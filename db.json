@@ -7,6 +7,9 @@
   "CandidateDetails": [
     {"id": 1,"name": "Saaaandeep","email": "HR@gmail.com","body": "1w23"},
     {"id": 2,"name": "Praanav","email": "IT@gmail.com","body": "1234e5d6"},
-    {"id": 3,"name": "Pritish","email": "IT@gmail.com","body": "1234e5a6"}
+    {"id": 3,"name": "Pritish","email": "IT@gmail.com","body": "1234e5a6"},
+    {"id": 4,"name": "Karthik","email": "HR@gmail.com","body": "1w23"},
+    {"id": 5,"name": "Summit","email": "IT@gmail.com","body": "1234e5d6"},
+    {"id": 6,"name": "Bhagee","email": "IT@gmail.com","body": "1234e5a6"}
   ]
 }
